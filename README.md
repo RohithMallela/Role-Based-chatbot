@@ -269,14 +269,6 @@ Ensure both the frontend and backend are running, then:
 pytest tests/test_ui.py --headed  # --headed lets you see the browser
 ```
 
-### RAG evaluation
-Run the scripts: evaluator.py 
-
-Output:
-1. qa_pairs_openai.csv: Synthetic QA pairs.
-2. evaluation_results_openai.csv: Model predictions with evaluation scores.
-3. final_eval_with_roles.csv : Generates final predictions based on roles.
-
 ### Roles and Permissions
 
 | **Role**              | **Permissions**                                                                                  |
