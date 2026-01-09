@@ -1,9 +1,9 @@
 # **Project Report**
-## **FinSight - AI document assistant - A Role-Based Access Control System**
+##  AI document assistant - A Role-Based Access Control System**
 
-## **Business Problem:**
+## **Problem:**
 
-1. FinSolve Technologies faced operational inefficiencies caused by communication delays and fragmented, siloed data across departments including Finance, Marketing, HR, and Executive leadership.
+1. Technologies faced operational inefficiencies caused by communication delays and fragmented, siloed data across departments including Finance, Marketing, HR, and Executive leadership.
 2. Departmental isolation limited timely access to relevant information, slowing decision-making, strategic planning, and project execution.
 3. The organization required a secure, role-based AI solution to deliver on-demand, department-specific insights while enforcing strict access controls to maintain data confidentiality and operational efficiency.
 
