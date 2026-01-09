@@ -291,7 +291,7 @@ pytest tests/test_ui.py --headed  # --headed lets you see the browser
 1. Give me a summary about system architecture --  Engg
 2. Give me the details of employees in Data department whose performance rating is 5 -- HR 
 3. What percentage of the Vendor Services expense was allocated to marketing-related activities? -- finance
-4. What is the Return on Investment (ROI) for FinSolve Technologies? -- finance 
+4. What is the Return on Investment (ROI) for  Technologies? -- finance 
 5. Give me details about leave policies. -- General
-6. What was the percentage increase in FinSolve Technologies's net income in 2024? - Finance
+6. What was the percentage increase in Technologies's net income in 2024? - Finance
 
